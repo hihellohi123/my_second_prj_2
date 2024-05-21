@@ -1,1 +1,1 @@
-print('hungry')
+print(123)
